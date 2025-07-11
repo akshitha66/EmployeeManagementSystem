@@ -17,7 +17,6 @@ A complete **CRUD web application** to manage employee records using a **React f
 - Layered architecture (Controller, Service, Repository)
 - Error handling and validation
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +28,6 @@ A complete **CRUD web application** to manage employee records using a **React f
 | Tools       | Postman, IntelliJ, VS Code  |
 | Build Tools | Maven (Backend), npm (Frontend) |
 
----
 
 ## 🗂️ Project Structure
 
@@ -42,15 +40,11 @@ EmployeeManagementSystem/
 │ └── package.json
 └── README.md
 
-
----
-
 ## ⚙️ Getting Started
 
 ### 🔧 Backend Setup (Spring Boot)
 
 1. **Navigate to backend folder:**
-   ```bash
    cd backend
    
 **2. Configure application.properties:**
@@ -70,21 +64,12 @@ API runs at: http://localhost:8080/api/employees
 Frontend Setup (React)
 Navigate to frontend folder:
 
-bash
-Copy
-Edit
 cd frontend
 Install dependencies:
 
-bash
-Copy
-Edit
 npm install
 Start the React app:
 
-bash
-Copy
-Edit
 npm start
 React will run at: http://localhost:3000
 
